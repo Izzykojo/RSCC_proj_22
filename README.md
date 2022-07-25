@@ -1,4 +1,8 @@
-# RSCC_proj_22
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Izzykojo/RSCC_proj_22/main?labpath=rscc_project_ii.ipynb)
+# jupyter_webapp_demo
+Code for the article "How to Create an Interactive Web Application using Jupyter Notebook".
 
-A try test assignment from Mr. Kofi Asare, GSSTI-RSCC by NSP 2022
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nghweigeok/jupyter_webapp_demo/HEAD?urlpath=%2Fvoila%2Frender%2FDemo.ipynb)
+
+Try the demo here: https://mybinder.org/v2/gh/nghweigeok/jupyter_webapp_demo/HEAD?urlpath=%2Fvoila%2Frender%2FDemo.ipynb
+
+Complete blog article and video tutorial: https://blog.finxter.com/how-to-create-an-interactive-web-application-using-jupyter-notebook/
